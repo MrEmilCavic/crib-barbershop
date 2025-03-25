@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crib-barbershop/static/css/main.61e628f0.css",
+    "main.js": "/crib-barbershop/static/js/main.a4957adb.js",
+    "static/js/453.e2b21f52.chunk.js": "/crib-barbershop/static/js/453.e2b21f52.chunk.js",
+    "static/media/006.png": "/crib-barbershop/static/media/006.307247d84015481d397f.png",
+    "static/media/logo.png": "/crib-barbershop/static/media/logo.826a8e54d266897e389b.png",
+    "static/media/004.jpg": "/crib-barbershop/static/media/004.4c8a8a6e79fff4fe04d6.jpg",
+    "static/media/005.jpg": "/crib-barbershop/static/media/005.f8d39a2c13061463c3e2.jpg",
+    "static/media/002.jpg": "/crib-barbershop/static/media/002.f95412d5a822388a7d10.jpg",
+    "static/media/003.jpg": "/crib-barbershop/static/media/003.7d67d6a08f74e38a0515.jpg",
+    "static/media/001.jpg": "/crib-barbershop/static/media/001.43d6dce11d2cbeb80ca1.jpg",
+    "index.html": "/crib-barbershop/index.html",
+    "main.61e628f0.css.map": "/crib-barbershop/static/css/main.61e628f0.css.map",
+    "main.a4957adb.js.map": "/crib-barbershop/static/js/main.a4957adb.js.map",
+    "453.e2b21f52.chunk.js.map": "/crib-barbershop/static/js/453.e2b21f52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e628f0.css",
+    "static/js/main.a4957adb.js"
+  ]
+}
